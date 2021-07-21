@@ -1,0 +1,14 @@
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.DataAccess.deps.json
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.DataAccess.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.DataAccess.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.Common.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.DataAccess.Contracts.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.Common.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\bin\Debug\netcoreapp3.1\Pezza.DataAccess.Contracts.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.csproj.AssemblyReference.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.AssemblyInfoInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.AssemblyInfo.cs
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.csproj.CopyComplete
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.DataAccess\obj\Debug\netcoreapp3.1\Pezza.DataAccess.pdb

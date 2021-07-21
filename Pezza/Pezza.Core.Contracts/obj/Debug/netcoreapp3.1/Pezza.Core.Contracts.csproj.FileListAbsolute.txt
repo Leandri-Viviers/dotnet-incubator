@@ -1,0 +1,12 @@
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\bin\Debug\netcoreapp3.1\Pezza.Core.Contracts.deps.json
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\bin\Debug\netcoreapp3.1\Pezza.Core.Contracts.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\bin\Debug\netcoreapp3.1\Pezza.Core.Contracts.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\bin\Debug\netcoreapp3.1\Pezza.Common.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\bin\Debug\netcoreapp3.1\Pezza.Common.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.csproj.AssemblyReference.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.AssemblyInfoInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.AssemblyInfo.cs
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.csproj.CopyComplete
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Core.Contracts\obj\Debug\netcoreapp3.1\Pezza.Core.Contracts.pdb

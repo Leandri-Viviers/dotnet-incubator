@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Pezza.Core.Contracts/1.0.0": {
+        "dependencies": {
+          "Pezza.Common": "1.0.0"
+        },
+        "runtime": {
+          "Pezza.Core.Contracts.dll": {}
+        }
+      },
+      "Pezza.Common/1.0.0": {
+        "runtime": {
+          "Pezza.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Pezza.Core.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Pezza.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

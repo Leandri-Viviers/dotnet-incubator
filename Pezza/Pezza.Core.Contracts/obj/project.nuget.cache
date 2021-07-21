@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "q9Z7Jvnn/HrtjGI05ix4RN8FU6/AIiwG6vuIR6Ah+gDTOoFFh6smh5TctkOMzy1wT4+D5pLzWNpWBhvNPiBnxw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leandri.viviers\\source\\repos\\Pezza\\Pezza.Core.Contracts\\Pezza.Core.Contracts.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leandri.viviers\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

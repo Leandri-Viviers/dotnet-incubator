@@ -1,0 +1,9 @@
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\bin\Debug\netcoreapp3.1\Pezza.Common.deps.json
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\bin\Debug\netcoreapp3.1\Pezza.Common.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\bin\Debug\netcoreapp3.1\Pezza.Common.pdb
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.csproj.AssemblyReference.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.AssemblyInfoInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.AssemblyInfo.cs
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.csproj.CoreCompileInputs.cache
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.dll
+C:\Users\leandri.viviers\source\repos\Pezza\Pezza.Common\obj\Debug\netcoreapp3.1\Pezza.Common.pdb
